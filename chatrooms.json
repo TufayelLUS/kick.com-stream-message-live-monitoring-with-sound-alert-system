@@ -1,0 +1,15 @@
+{
+  "id": 3846231,
+  "slow_mode": { "enabled": false, "message_interval": 6 },
+  "subscribers_mode": { "enabled": false },
+  "followers_mode": { "enabled": true, "min_duration": 0 },
+  "emotes_mode": { "enabled": false },
+  "advanced_bot_protection": { "enabled": false, "remaining_time": 0 },
+  "pinned_message": null,
+  "show_quick_emotes": { "enabled": false },
+  "show_banners": { "enabled": false },
+  "gifts_enabled": { "enabled": false },
+  "gifts_week_enabled": { "enabled": false },
+  "gifts_month_enabled": { "enabled": false },
+  "account_age": { "enabled": false, "min_duration": 0 }
+}
